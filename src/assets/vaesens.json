@@ -1,0 +1,523 @@
+[
+    {
+        "name": "Ash tree wife",
+        "type": "habitat defender",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "enchantment",
+                "text" : "enchanted"
+            },
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "disappearance",
+                "text" :"kidnapped"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted",
+            "been deceived",
+            "been abandoned"
+        ]
+    },
+    {
+        "name": "Brook horse",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Church grim",
+        "type": "habitat defender",
+        "habitats": [
+            "village",
+            "town",
+            "city"
+        ],
+        "acts": [
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Fairy",
+        "type": "trickster",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "poisoning",
+                "text" : "poisoned"
+            },
+            {
+                "type" : "curse",
+                "text" : "cursed to the deafness"
+            },
+            {
+                "type" : "curse",
+                "text" : "cursed to the blindness"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted",
+            "been deceived",
+            "been abandoned"
+        ]
+    },
+    {
+        "name": "Ghost",
+        "type": "avenger",
+        "habitats": [
+            "village",
+            "town",
+            "city",
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            }
+        ],
+        "triggers": [
+            "has been  killed"
+        ]
+    },
+    {
+        "name": "Giant",
+        "type": "habitat defender",
+        "habitats": [
+            "village"
+        ],
+        "acts": [
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "destruction",
+                "text" : "destroyed the church where has died"
+            },
+            {
+                "type" : "destruction",
+                "text" : "destroyed the house of"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted",
+            "saw the construction of the church"
+        ]
+    },
+    {
+        "name": "Lindworm",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "disappearance",
+                "text" : "ate"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Mare",
+        "type": "avenger",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            }
+        ],
+        "triggers": [
+            "was bullied"
+        ]
+    },
+    {
+        "name": "Mermaid",
+        "type": "habitat defender",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "disappearance",
+                "text" : "kidnapped"
+            },
+            {
+                "type" : "disappearance",
+                "text" : "drowned"
+            }
+        ],
+        "triggers": [
+            "felt in love with",
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "The Neck",
+        "type": "trickster",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "enchantment",
+                "text" : "enchanted the music instrument, which made mad"
+            },
+            {
+                "type" : "disappearance",
+                "text" : "drowned"
+            },
+            {
+                "type" : "disappearance",
+                "text" : "let into the swamps"
+            }
+
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted",
+            "been deceived",
+            "been abandoned"
+        ]
+    },
+    {
+        "name": "Night Raven",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town",
+            "city",
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Nisse",
+        "type": "humanoid",
+        "habitats": [
+            "village",
+            "town",
+            "city"
+        ],
+        "acts": [
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "Robbery",
+                "text" : "robbed"
+            },
+            {
+                "type" : "destruction",
+                "text" : "destroyed the house of"
+            }
+
+        ],
+        "triggers": [
+            "risk been uncovered",
+            "been hunted",
+            "been deceived"
+        ]
+    },
+    {
+        "name": "Revenant",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "madness",
+                "text" : "torments with nightmares"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Sea Serpent",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "disappearance",
+                "text" : "drowned the boat of"
+            },
+            {
+                "type" : "disappearance",
+                "text" : "ate"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Spertus",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town",
+            "city"
+        ],
+        "acts": [
+            {
+                "type" : "infection",
+                "text" : "infected"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Troll",
+        "type": "humanoid",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "robbery",
+                "text" : "robbed"
+            },
+            {
+                "type" : "destruction",
+                "text" : "destroyed the house of"
+            },
+            {
+                "type" : "disappearance",
+                "text" : "kidnapped the child of"
+            }
+        ],
+        "triggers": [
+            "risk been uncovered",
+            "been hunted",
+            "been deceived"
+        ]
+    },
+    {
+        "name": "Vaettir",
+        "type": "humanoid",
+        "habitats": [
+            "village",
+            "town",
+            "city",
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "destruction",
+                "text" : "burned the property of"
+            },
+            {
+                "type" : "poisoning",
+                "text" : "poisoned"
+            },
+            {
+                "type" : "infection",
+                "text" : "infected"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "risk been uncovered",
+            "been hunted",
+            "been deceived"
+        ]
+    },
+    {
+        "name": "Werewolf",
+        "type": "predator",
+        "habitats": [
+            "village",
+            "town",
+            "city",
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "murder",
+                "text" : "killed"
+            },
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "destruction",
+                "text" : "destroyed the house of"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted",
+            "been deceived"
+        ]
+    },
+    {
+        "name": "Will-o’-The-Wisp",
+        "type": "trickster",
+        "habitats": [
+            "village",
+            "town",
+            "city",
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "disappearance",
+                "text" : "let into the swamps"
+            },
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            }
+            
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted"
+        ]
+    },
+    {
+        "name": "Wood Wife",
+        "type": "habitat defender",
+        "habitats": [
+            "village",
+            "town"
+        ],
+        "acts": [
+            {
+                "type" : "disappearance",
+                "text" : "kidnapped"
+            },
+            {
+                "type" : "madness",
+                "text" : "made mad"
+            },
+            {
+                "type" : "murder",
+                "text" : "killed"
+            }
+        ],
+        "triggers": [
+            "risk losing their habitat, because of actions committed",
+            "been hunted",
+            "been deceived",
+            "been abandoned"
+        ]
+    }
+]

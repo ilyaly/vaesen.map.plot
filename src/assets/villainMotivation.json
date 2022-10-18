@@ -1,0 +1,37 @@
+[
+    {
+        "source": "victim",
+        "type": "power",
+        "name": "public office"
+    },
+    {
+        "source": "victim",
+        "type": "power",
+        "name": "dark secret"
+    },
+    {
+        "source": "victim",
+        "type": "money",
+        "name": "heritage"
+    },
+    {
+        "source": "victim",
+        "type": "money",
+        "name": "market position"
+    },
+    {
+        "source": "victim",
+        "type": "relationship",
+        "name": "sex"
+    },
+    {
+        "source": "victim",
+        "type": "relationship",
+        "name": "secret"
+    },
+    {
+        "source": "victim",
+        "type": "relationship",
+        "name": "revenge"
+    }
+]
