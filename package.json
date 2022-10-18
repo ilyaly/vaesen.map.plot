@@ -1,7 +1,7 @@
 {
-  "name": "vaesen.ilyashevelev.xyz",
+  "name": "vaesen.map.plot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vaesen RPG Plot Generator",
   "private": true,
   "scripts": {
     "dev": "webpack serve --open --config webpack.dev.js",
