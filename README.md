@@ -1,6 +1,6 @@
 # Vaesen RPG Plot Generator
 
-Rule based primitive plot hooks generator for [Vaesen RPG from Fria Ligan](https://freeleaguepublishing.com/en/games/vaesen/).
+Rule based simple plot hooks generator for [Vaesen RPG from Fria Ligan](https://freeleaguepublishing.com/en/games/vaesen/).
 
 Generator is incorporated with a stylized map inspired by the corebook.
 
